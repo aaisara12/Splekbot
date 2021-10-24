@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// State Machine class from Jason Weimann's "Unity Bots with State Machines" video
+// State Machine class from Jason Weimann's "Unity Bots with State Machines" video https://www.youtube.com/watch?v=V75hgcsCGOM&t=493s
 public class StateMachine
 {
    private IState _currentState;
